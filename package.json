@@ -1,0 +1,21 @@
+{
+  "name": "outsync-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "express": "^4.19.2",
+    "canvas": "^3.2.0",
+    "cairo": "^1.0.0",
+    "pango": "^1.0.0",
+    "pixman": "^1.0.0"
+  }
+}
